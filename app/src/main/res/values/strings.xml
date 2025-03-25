@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FastFood</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="register_prompt">Don\'t have an account? Register here</string>
+    <string name="app_logo">App Logo</string>
+    
+    <!-- Cart item strings -->
+    <string name="cart_item_image">Hình ảnh sản phẩm</string>
+    <string name="cart_decrease_quantity">Giảm số lượng</string>
+    <string name="cart_increase_quantity">Tăng số lượng</string>
+    <string name="cart_delete_item">Xóa sản phẩm</string>
+
+    <string name="menu_item_image">Menu item image</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="view_cart">View Cart</string>
+</resources>
